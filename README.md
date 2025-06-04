@@ -1,4 +1,5 @@
 APP design:
+
 -> 1.Document_loading (types of doc support)
 
 -> 2.Document_splitting to fit model and better efficiency
